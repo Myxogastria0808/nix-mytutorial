@@ -3,7 +3,7 @@
 nixファイルの実行
 
 ```sh
-nix-instantiate --eval　--strict ~.nix
+nix-instantiate --eval --strict ~.nix
 ```
 REPL環境に入る
 
